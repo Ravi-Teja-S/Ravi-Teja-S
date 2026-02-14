@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile.jpeg" width="180" style="border-radius:50%;" />
+</p>
 <h1 align="center">Hi 👋 I'm Ravi Teja S</h1>
 <h3 align="center">Aspiring Software Developer | AI • Web • Systems</h3>
 
