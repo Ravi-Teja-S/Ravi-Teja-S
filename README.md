@@ -27,11 +27,23 @@
 
 
 ---
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  
 ## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,html,css,js,react,php,mysql,linux&perline=8" />
 </p>
 
+</td>
 
+<td width="50%" align="center">
+
+<img src="video.gif" width="320" muted loop playsinline></img>
+
+</td>
+</tr>
+</table>
 
