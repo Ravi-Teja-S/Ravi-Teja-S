@@ -27,23 +27,40 @@
 
 
 ---
+
+  
+##  Tech Stack
+
 <table align="center">
 <tr>
-<td width="50%" align="center">
-  
-## 🚀 Tech Stack
+<td align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,html,css,js,react,php,mysql,linux&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,html,css,js,react,php,mysql,linux&perline=6" />
 
 </td>
+<td align="center">
 
-<td width="50%" align="center">
-
-<img src="video.gif" width="320" muted loop playsinline></img>
+<img src="https://github.com/user-attachments/assets/d7a19c1c-59e3-4d39-9afb-a33f6f513d83" width="300"/>
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Ravi-Teja-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+
+## My streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravi-Teja-S&theme=radical&border_radius=10)
+
+---
+
+
+
 
